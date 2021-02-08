@@ -1,0 +1,37 @@
+body {
+    background-color: blue;
+    text-align: center;
+}
+.heading {
+    background-color: chartreuse;
+    color: coral;
+    width: 80%;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 10px;
+}
+#names {
+    color: crimson;
+    font-size: 20px;
+}
+h3 {
+    color: rgb(219, 216, 17);
+    font-size: 40px;
+}
+#camera,#snapshot {
+    width: 300px;
+    height: 300px;
+    border: cyan 5px solid;
+    float: none;
+}
+p {
+    color: gold;
+    background-color: green;
+    width: 20%;
+    padding: 10px;
+    font-size: 20px;
+}
+button {
+    font-size: 30px;
+}
